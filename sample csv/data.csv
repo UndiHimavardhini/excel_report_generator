@@ -1,0 +1,11 @@
+Date,Region,Category,Product,Channel,Units,UnitPrice,DiscountPct,Sales
+2025-05-01,South,Electronics,Monitor,Retail,10,157.71,0.05,1498.25
+2025-05-02,East,Furniture,Desk,Online,7,163.44,0.00,1144.08
+2025-05-03,North,Office Supplies,Notebook,Retail,12,2.88,0.10,31.10
+2025-05-04,West,Electronics,Laptop,Online,5,762.54,0.00,3812.70
+2025-05-05,South,Furniture,Chair,Wholesale,15,91.32,0.15,1163.34
+2025-05-06,East,Electronics,Mouse,Retail,20,11.25,0.00,225.00
+2025-05-07,North,Office Supplies,Stapler,Online,8,6.80,0.05,51.68
+2025-05-08,West,Furniture,Bookshelf,Retail,3,115.22,0.10,310.09
+2025-05-09,South,Electronics,Headphones,Online,18,42.00,0.00,756.00
+2025-05-10,East,Furniture,Cabinet,Wholesale,4,210.55,0.05,799.89
